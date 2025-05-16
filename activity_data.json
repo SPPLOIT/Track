@@ -69,12 +69,12 @@
     },
     "29d01c34-5943-4209-ae5d-6d1200af80e0": {
         "guild_id": "1256769836747456592",
-        "messages_per_week": 4,
+        "messages_per_week": 5,
         "commands_used": 0,
         "unique_users_week": [
             "1007448573044080650",
             "1217133072743403581"
         ],
-        "last_updated": "2025-05-15T20:53:41.924730"
+        "last_updated": "2025-05-15T20:53:53.340551"
     }
 }
