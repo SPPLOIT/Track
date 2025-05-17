@@ -1,6 +1,6 @@
 {
     "17b24dd8-5867-4cf5-93f2-303d55da280b": {
-        "guild_id": "e04118f4-8594-4b1a-b47d-eecfb5abee66",
+        "guild_id": "905179163852423258",
         "messages_per_week": 149,
         "commands_used": 8,
         "unique_users_week": [
@@ -29,13 +29,4 @@
         ],
         "last_updated": "2025-05-17T02:21:42.705047"
     },
-    "43b59750-d887-43f1-99fc-1c73ad97eb46": {
-        "guild_id": "905179163852423258",
-        "messages_per_week": 2,
-        "commands_used": 2,
-        "unique_users_week": [
-            "618074795644551191"
-        ],
-        "last_updated": "2025-05-17T02:22:32.517993"
-    }
 }
