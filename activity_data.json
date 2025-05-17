@@ -1,6 +1,6 @@
 {
-    "f2f5d2c3-c49c-452a-a8e6-906784de08e9": {
-        "guild_id": "b37f80bd-5837-4b03-ae6c-e7e5b5ab6eea",
+    "e04118f4-8594-4b1a-b47d-eecfb5abee66": {
+        "guild_id": "f2f5d2c3-c49c-452a-a8e6-906784de08e9",
         "messages_per_week": 149,
         "commands_used": 8,
         "unique_users_week": [
@@ -15,10 +15,10 @@
             "1069268030812602398",
             "1188212143645020196"
         ],
-        "last_updated": "2025-05-17T02:05:31.367681"
+        "last_updated": "2025-05-17T02:11:55.109644"
     },
-    "ad9ea716-72d0-4b42-98a3-bf991394cf7a": {
-        "guild_id": "14afcdbc-5eb7-46e2-b991-6961f73d2d6f",
+    "dc3c1aa1-c75d-4ffb-8acf-7a7e0228511d": {
+        "guild_id": "ad9ea716-72d0-4b42-98a3-bf991394cf7a",
         "messages_per_week": 17,
         "commands_used": 0,
         "unique_users_week": [
@@ -27,15 +27,15 @@
             "1007448573044080650",
             "730418985375498382"
         ],
-        "last_updated": "2025-05-17T02:05:31.367681"
+        "last_updated": "2025-05-17T02:11:55.109644"
     },
     "29d01c34-5943-4209-ae5d-6d1200af80e0": {
         "guild_id": "1256769836747456592",
-        "messages_per_week": 7,
-        "commands_used": 6,
+        "messages_per_week": 1,
+        "commands_used": 1,
         "unique_users_week": [
             "618074795644551191"
         ],
-        "last_updated": "2025-05-17T02:07:43.208562"
+        "last_updated": "2025-05-17T02:12:41.877624"
     }
 }
