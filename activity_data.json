@@ -1,6 +1,6 @@
 {
     "bb5529a5-3600-45b1-a02f-4bde1ae5bdc6": {
-        "guild_id": "85ab4544-3014-4581-b5c4-6225589bf1b2",
+        "guild_id": "905179163852423258",
         "messages_per_week": 149,
         "commands_used": 8,
         "unique_users_week": [
@@ -33,16 +33,4 @@
         "active_hours": 0.18353799998760226,
         "last_uptime_check": 1747524233.7908287
     },
-    "ae957a3d-316c-45bc-b9df-139b0763c8bd": {
-        "guild_id": "43b59750-d887-43f1-99fc-1c73ad97eb46",
-        "messages_per_week": 2,
-        "commands_used": 0,
-        "unique_users_week": [
-            "618074795644551191",
-            "1256005796920168490"
-        ],
-        "last_updated": "2025-05-17T19:23:52.724194",
-        "active_hours": 0.14666580021381379,
-        "last_uptime_check": 1747524233.7908287
-    }
 }
