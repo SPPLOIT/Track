@@ -1,6 +1,6 @@
 {
-    "c77e4890-6f39-413b-9f2f-5fc6488810a3": {
-        "guild_id": "905179163852423258",
+    "d1c67636-a1c6-46d0-b528-456129143a4c": {
+        "guild_id": "c77e4890-6f39-413b-9f2f-5fc6488810a3",
         "messages_per_week": 149,
         "commands_used": 8,
         "unique_users_week": [
@@ -15,12 +15,12 @@
             "1069268030812602398",
             "1188212143645020196"
         ],
-        "last_updated": "2025-05-17T20:03:01.319625",
-        "active_hours": 0.835970877011617,
-        "last_uptime_check": 1747526582.549186
+        "last_updated": "2025-05-17T20:03:44.128454",
+        "active_hours": 0.8479454988903469,
+        "last_uptime_check": 1747526625.6578248
     },
-    "7fd5285e-5f38-41af-a93f-501099ce4e5b": {
-        "guild_id": "9dc158b0-f0bd-426f-96a9-071b1bba1dc8",
+    "a25c5704-9325-4b3f-b582-c44adeecbfdd": {
+        "guild_id": "7fd5285e-5f38-41af-a93f-501099ce4e5b",
         "messages_per_week": 17,
         "commands_used": 0,
         "unique_users_week": [
@@ -29,36 +29,36 @@
             "1007448573044080650",
             "730418985375498382"
         ],
-        "last_updated": "2025-05-17T20:03:01.319647",
-        "active_hours": 0.835970877011617,
-        "last_uptime_check": 1747526582.549186
+        "last_updated": "2025-05-17T20:03:44.128454",
+        "active_hours": 0.8479454988903469,
+        "last_uptime_check": 1747526625.6578248
     },
-    "17b24dd8-5867-4cf5-93f2-303d55da280b": {
-        "guild_id": "e04118f4-8594-4b1a-b47d-eecfb5abee66",
+    "85ab4544-3014-4581-b5c4-6225589bf1b2": {
+        "guild_id": "17b24dd8-5867-4cf5-93f2-303d55da280b",
         "messages_per_week": 2,
         "commands_used": 0,
         "unique_users_week": [
             "618074795644551191",
             "1256005796920168490"
         ],
-        "last_updated": "2025-05-17T20:03:01.319647",
-        "active_hours": 0.7990986772378286,
-        "last_uptime_check": 1747526582.549186
+        "last_updated": "2025-05-17T20:03:44.128454",
+        "active_hours": 0.8110732991165585,
+        "last_uptime_check": 1747526625.6578248
     },
-    "f2f5d2c3-c49c-452a-a8e6-906784de08e9": {
-        "guild_id": "b37f80bd-5837-4b03-ae6c-e7e5b5ab6eea",
+    "e04118f4-8594-4b1a-b47d-eecfb5abee66": {
+        "guild_id": "f2f5d2c3-c49c-452a-a8e6-906784de08e9",
         "messages_per_week": 6,
         "commands_used": 0,
         "unique_users_week": [
             "618074795644551191",
             "1256005796920168490"
         ],
-        "last_updated": "2025-05-17T20:03:01.319647",
-        "active_hours": 0.6249000948667527,
-        "last_uptime_check": 1747526582.549186
+        "last_updated": "2025-05-17T20:03:44.128454",
+        "active_hours": 0.6368747167454826,
+        "last_uptime_check": 1747526625.6578248
     },
-    "5d9c35d1-8d78-4e50-9dd6-048eed19e026": {
-        "guild_id": "ae957a3d-316c-45bc-b9df-139b0763c8bd",
+    "b37f80bd-5837-4b03-ae6c-e7e5b5ab6eea": {
+        "guild_id": "5d9c35d1-8d78-4e50-9dd6-048eed19e026",
         "messages_per_week": 23,
         "commands_used": 1,
         "unique_users_week": [
@@ -66,19 +66,19 @@
             "1256005796920168490",
             "1277023944188100681"
         ],
-        "last_updated": "2025-05-17T20:03:01.319647",
-        "active_hours": 0.3311565084589852,
-        "last_uptime_check": 1747526582.549186
+        "last_updated": "2025-05-17T20:03:44.128454",
+        "active_hours": 0.34313113033771514,
+        "last_uptime_check": 1747526625.6578248
     },
-    "19a5f5d6-f3f1-4abf-bf83-745be5fdd73f": {
-        "guild_id": "5351123d-c2b2-4d7a-8480-758aa6ca8668",
+    "14afcdbc-5eb7-46e2-b991-6961f73d2d6f": {
+        "guild_id": "19a5f5d6-f3f1-4abf-bf83-745be5fdd73f",
         "messages_per_week": 1,
         "commands_used": 0,
         "unique_users_week": [
             "1217133072743403581"
         ],
-        "last_updated": "2025-05-17T20:03:01.319647",
-        "active_hours": 0.26031615356604254,
-        "last_uptime_check": 1747526582.549186
+        "last_updated": "2025-05-17T20:03:44.128454",
+        "active_hours": 0.2722907754447725,
+        "last_uptime_check": 1747526625.6578248
     }
 }
