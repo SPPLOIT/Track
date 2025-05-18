@@ -34,13 +34,13 @@
     },
     "29d01c34-5943-4209-ae5d-6d1200af80e0": {
         "guild_id": "1256769836747456592",
-        "messages_per_week": 5,
+        "messages_per_week": 6,
         "commands_used": 0,
         "unique_users_week": [
             "1217133072743403581",
             "661013335797661707"
         ],
-        "last_updated": "2025-05-17T21:23:58.571406",
+        "last_updated": "2025-05-17T21:49:00.402088",
         "active_hours": 0.5203853660159641,
         "last_uptime_check": 1747532840.5604131
     }
