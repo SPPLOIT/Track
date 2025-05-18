@@ -30,5 +30,16 @@
         "last_updated": "2025-05-17T21:07:51.792450",
         "active_hours": 0.26059210810396405,
         "last_uptime_check": 1747530735.7529862
+    },
+    "29d01c34-5943-4209-ae5d-6d1200af80e0": {
+        "guild_id": "1256769836747456592",
+        "messages_per_week": 1,
+        "commands_used": 0,
+        "unique_users_week": [
+            "1217133072743403581"
+        ],
+        "last_updated": "2025-05-17T21:16:07.173095",
+        "active_hours": 0,
+        "last_uptime_check": 1747530967.1730955
     }
 }
