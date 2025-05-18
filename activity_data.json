@@ -19,7 +19,7 @@
         "last_updated": "2025-05-18T02:02:23.879065",
         "active_hours": 6.960640602244271,
         "last_uptime_check": 1747548631.3601968,
-        "active": "on"
+        "active": "off"
     },
     "29d01c34-5943-4209-ae5d-6d1200af80e0": {
         "guild_id": "1256769836747456592",
@@ -32,7 +32,7 @@
         "last_updated": "2025-05-17T21:49:00.402088",
         "active_hours": 4.906718639267816,
         "last_uptime_check": 1747548631.3601968,
-        "active": "on"
+        "active": "off"
     },
     "fa8afc88-cb85-40db-a2b2-f9e131e06433": {
         "guild_id": "1078801085092864020",
@@ -42,7 +42,7 @@
         "last_updated": "2025-05-18T02:11:49.412422",
         "active_hours": 0,
         "last_uptime_check": 1747548709.412422,
-        "active": "on"
+        "active": "off"
     },
     "397fda86-9e82-424b-a6fb-b1724e8cf9d1": {
         "guild_id": "1285070009265295381",
@@ -52,7 +52,7 @@
         "last_updated": "2025-05-18T02:11:49.419417",
         "active_hours": 0,
         "last_uptime_check": 1747548709.4194179,
-        "active": "on"
+        "active": "off"
     },
     "81cbd0b7-e9c5-48b5-8e09-b23ee0ddf200": {
         "guild_id": "1307893398576828518",
@@ -62,7 +62,7 @@
         "last_updated": "2025-05-18T02:11:49.433485",
         "active_hours": 0,
         "last_uptime_check": 1747548709.433485,
-        "active": "on"
+        "active": "off"
     },
     "46957fcd-04a5-4931-87f5-b9764444f6a5": {
         "guild_id": "1319599447071784971",
@@ -72,6 +72,6 @@
         "last_updated": "2025-05-18T02:11:49.441479",
         "active_hours": 0,
         "last_uptime_check": 1747548709.4414797,
-        "active": "on"
+        "active": "off"
     }
 }
