@@ -1,15 +1,15 @@
 {
     "7b3a321e-8bd6-4ef6-b819-11d766cdc5bb": {
         "guild_id": "905179163852423258",
-        "messages_per_week": 24,
-        "commands_used": 5,
+        "messages_per_week": 25,
+        "commands_used": 6,
         "unique_users_week": [
             "618074795644551191",
             "1277023944188100681",
             "1143232833998032896",
             "1188212143645020196"
         ],
-        "last_updated": "2025-05-21T23:05:47.691236",
+        "last_updated": "2025-05-22T00:45:36.747211",
         "active_hours": 0,
         "last_uptime_check": 1747583629.6218371,
         "active": "on"
