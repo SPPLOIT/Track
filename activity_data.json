@@ -1,1 +1,92 @@
-{}
+{
+    "8c7067be-010c-4293-b8a3-17644218fe37": {
+        "guild_id": "905179163852423258",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.626822",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.6268222,
+        "active": "on"
+    },
+    "9f9998a7-9ada-48ba-8719-4f6aa9e40130": {
+        "guild_id": "1078801085092864020",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.627821",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.627822,
+        "active": "on"
+    },
+    "227aa349-c948-440a-a0bd-98ac075870c3": {
+        "guild_id": "1256769836747456592",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.628821",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.6288218,
+        "active": "on"
+    },
+    "8b99fe45-c89a-4afb-bb33-cf2ccc8efab9": {
+        "guild_id": "1285070009265295381",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.629821",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.6298213,
+        "active": "on"
+    },
+    "aab2bdeb-833a-419c-8146-731b3be7a08d": {
+        "guild_id": "1307893398576828518",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.630819",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.6308193,
+        "active": "on"
+    },
+    "69563d32-8ca9-480f-b51c-d447f5bd8bdd": {
+        "guild_id": "1319599447071784971",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.630819",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.6308193,
+        "active": "on"
+    },
+    "ffa645c9-53ab-4a92-9a72-126f9d2d29a8": {
+        "guild_id": "1373493945962594416",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.631820",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.63182,
+        "active": "on"
+    },
+    "902cc27b-6ad3-45dc-b5dc-eaac524ebc1d": {
+        "guild_id": "1375320793130467370",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.632819",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.63282,
+        "active": "on"
+    },
+    "23e95595-c38f-4a00-b4f2-197df051c2e8": {
+        "guild_id": "1384578522789576816",
+        "messages_per_week": 0,
+        "commands_used": 0,
+        "unique_users_week": [],
+        "last_updated": "2025-06-17T13:46:50.632819",
+        "active_hours": 0,
+        "last_uptime_check": 1750182410.63282,
+        "active": "on"
+    }
+}
